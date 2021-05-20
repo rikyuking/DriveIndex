@@ -23,6 +23,9 @@ Example in https://drive.google.com/drive/folders/0AAFxtOxOHXbtUk9PVA
 ## Type of function
 
 A.  Run Folder - Index all folder and in its subdirectory
+
 B.  Run All Files - Index all files and in its subdirectory
+
 C.  Run Parent Folder - Index only parent folder on the spesific ID
+
 D.  Clear Index - Clear all indexing 
