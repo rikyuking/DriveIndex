@@ -29,3 +29,7 @@ B.  Run All Files - Index all files and in its subdirectory
 C.  Run Parent Folder - Index only parent folder on the spesific ID
 
 D.  Clear Index - Clear all indexing 
+
+### Example Template
+
+https://docs.google.com/spreadsheets/d/1DHF1ELZdg58ezGZUFVLk9o8YwedRRKdmbmzLAOskjH0/edit?usp=sharing
