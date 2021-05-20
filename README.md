@@ -32,4 +32,6 @@ D.  Clear Index - Clear all indexing
 
 ### Example Template
 
+You also can copy the file and put at your Google Drive and run the script.
+
 https://docs.google.com/spreadsheets/d/1DHF1ELZdg58ezGZUFVLk9o8YwedRRKdmbmzLAOskjH0/edit?usp=sharing
